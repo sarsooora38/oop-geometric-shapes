@@ -1,4 +1,4 @@
-# OOP Shapes Project
+[# OOP Shapes Project
 
 A small Java console project that demonstrates object-oriented programming concepts by modelling circles and cubes.
 
@@ -41,3 +41,4 @@ Make sure `input.txt` is in the working directory when running the program.
 
 - This is an academic Java OOP project, not a web backend application.
 - Cube `getPerimete()` returns the combined length of its 12 edges, since a 3D cube does not have a 2D perimeter in the usual sense.
+](https://github.com/sarsooora38/oop-geometric-shapes/edit/main/README.md)
