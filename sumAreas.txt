@@ -1,0 +1,8 @@
+Shape areas
+------------
+1. Circle - area = 12.57
+2. Cube - area = 54.00
+3. Circle - area = 7.07
+4. Cube - area = 24.00
+
+Total area = 97.63
